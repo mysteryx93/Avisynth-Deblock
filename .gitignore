@@ -1,0 +1,6 @@
+Build
+test
+*.*sdf
+*.suo
+*.user
+.vs
