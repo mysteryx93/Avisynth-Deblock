@@ -2,3 +2,4 @@ v1.3 (2018-05-29) - Etienne Charland
 - Back-ported code from VapourSynth
 - Added high-bit-depth support
 - Added Planes parameter to specify which planes to process
+- Supports all planar formats
